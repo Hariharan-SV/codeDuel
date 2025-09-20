@@ -152,7 +152,8 @@ class DuelService:
         for answer_data in existing_answers:
             if (answer_data.get("user_id") == user_id and 
                 answer_data.get("question_index") == question_index):
-                raise Exception("Already answered this question")
+                # raise Exception("Already answered this question")
+                break
         
         # Get the question
         question = duel.questions[question_index]
