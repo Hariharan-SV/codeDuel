@@ -1,6 +1,7 @@
 # CodeDuel
 
 A real-time quiz duel application where two users compete by answering programming questions in 90 seconds.
+[Medium](https://hariharan-sv.medium.com/codeduel-a-real-time-programming-quiz-duel-677ec976ef85)
 
 ## Architecture
 
